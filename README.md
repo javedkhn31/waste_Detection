@@ -17,7 +17,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-waste-detection
+https://github.com/javedkhn31/waste_Detection.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
